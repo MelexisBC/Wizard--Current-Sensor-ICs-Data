@@ -44,9 +44,9 @@ IMC-HALL®,Production,MLX91218LDC-AFV-204,2000,3.3,15,-40 to 150,Analog Ratiomet
 IMC-HALL®,Production,MLX91218LDC-ARX-501,2000,5,15,-40 to 150,Analog Ratiometric,30,30 - 165,Yes,SOIC-8,400,Design dependent,Grade 0,QM,https://melexis.com/MLX91218
 IMC-HALL®,Production,MLX91218LDC-ARX-300,2000,3.3,15,-40 to 150,Analog Ratiometric,14,18 - 125,Yes,SOIC-8,400,Design dependent,Grade 0,QM,https://melexis.com/MLX91218
 IMC-HALL®,Production,MLX91218LDC-ARX-301,2000,3.3,15,-40 to 150,Analog Ratiometric,19,18 - 125,Yes,SOIC-8,400,Design dependent,Grade 0,QM,https://melexis.com/MLX91218
-CONVENTIONAL HALL,Production,MLX91219LVA-AAA-500,2000,5,15,5,-40 to 150,Analog Ratiometric,7,6.5 - 22.5,Yes,SIP4-VA,400,Design dependent,Grade 0,QM,https://melexis.com/MLX91219
-CONVENTIONAL HALL,Production,MLX91219LVA-AAA-501,2000,5,15,5,-40 to 150,Analog Ratiometric,10,6.5 - 22.5,Yes,SIP4-VA,400,Design dependent,Grade 0,QM,https://melexis.com/MLX91219
-CONVENTIONAL HALL,Production,MLX91219LVA-ARA-501,2000,5,15,5,-40 to 150,Analog Ratiometric,10,6.5 - 22.5,Yes,SIP4-VA,400,Design dependent,Grade 0,QM,https://melexis.com/MLX91219
+CONVENTIONAL HALL,Production,MLX91219LVA-AAA-500,2000,5,15.5,-40 to 150,Analog Ratiometric,7,6.5 - 22.5,Yes,SIP4-VA,400,Design dependent,Grade 0,QM,https://melexis.com/MLX91219
+CONVENTIONAL HALL,Production,MLX91219LVA-AAA-501,2000,5,15.5,-40 to 150,Analog Ratiometric,10,6.5 - 22.5,Yes,SIP4-VA,400,Design dependent,Grade 0,QM,https://melexis.com/MLX91219
+CONVENTIONAL HALL,Production,MLX91219LVA-ARA-501,2000,5,15.5,-40 to 150,Analog Ratiometric,10,6.5 - 22.5,Yes,SIP4-VA,400,Design dependent,Grade 0,QM,https://melexis.com/MLX91219
 CONVENTIONAL HALL,Production,MLX91219LVA-AAA-502,2000,5,15,5,-40 to 150,Analog Ratiometric,15,6.5 - 22.5,Yes,SIP4-VA,400,Design dependent,Grade 0,QM,https://melexis.com/MLX91219
 CONVENTIONAL HALL,Production,MLX91219LVA-AAA-503,2000,5,15,5,-40 to 150,Analog Ratiometric,25,16 - 55,Yes,SIP4-VA,400,Design dependent,Grade 0,QM,https://melexis.com/MLX91219
 CONVENTIONAL HALL,Production,MLX91219LVA-AAT-505,2000,5,15,5,-40 to 150,Analog Ratiometric,10,6.5 - 22.5,Yes,SIP4-VA - STD4,400,Design dependent,Grade 0,QM,https://melexis.com/MLX91219
