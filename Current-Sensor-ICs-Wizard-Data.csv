@@ -79,7 +79,7 @@ INTEGRATED;Production;MLX91221KDF-ABR-050 RE;50;3.3;20;-40 to 125;Analog Ratiome
 INTEGRATED;Production;MLX91221KDF-ABF-050 RE;50;3.3;20;-40 to 125;Analog Fixed;25;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91221
 INTEGRATED;Production;MLX91221KDF-ABF-075 RE;75;3.3;20;-40 to 125;Analog Fixed;16.67;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91221
 IVT - CONVENTIONAL HALL;Production;MLX91230KDC-BBA-000-RE;2000;4.5 - 18;20;-40 to 125;LIN/UART/PWM (OCD);AGC (512mT range);Yes;Yes;SOIC-8;2;Design dependent;Grade 0;C (D) ;https://melexis.com/MLX91230
-IVT - CONVENTIONAL HALL;Production;MLX91230KDC-BBA-000-RE;2000;4.5 - 18;20;-40 to 125;LIN/UART/PWM (OCD);AGC (512mT range);Yes;Yes;SOIC-8;2;Design dependent;Grade 0;C (D) ;https://melexis.com/MLX91230
+IVT - CONVENTIONAL HALL;Production;MLX91230KDC-BBA-100-RE;2000;4.5 - 18;20;-40 to 125;LIN/UART/PWM (OCD);AGC (512mT range);Yes;Yes;SOIC-8;2;Design dependent;Grade 0;C (D) ;https://melexis.com/MLX91230
 IVT - CONVENTIONAL HALL;Production;MLX91230KDC-BBA-000-RE;2000;4.5 - 18;20;-40 to 125;LIN/UART/PWM (OCD);AGC (512mT range);Yes;Yes;SOIC-8;2;Design dependent;Grade 0;C (D) ;https://melexis.com/MLX91230
 IVT - SHUNT;Production;MLX91231KDC-BBA-000-RE;2000;5;20;-40 to 125;LIN/UART/PWM (OCD);AGC (512mT range);Yes;Yes;SOIC-8;2;N/A;Grade 0;C (D) ;https://melexis.com/MLX91231
 ;;;;;;;;;;;;;;;;
