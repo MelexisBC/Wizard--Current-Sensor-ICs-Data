@@ -82,6 +82,6 @@ IVT - CONVENTIONAL HALL;Production;MLX91230KDC-BBA-000-RE;2000;4.5 - 18;20;-40 t
 IVT - CONVENTIONAL HALL;Production;MLX91230KDC-BBA-100-RE;2000;4.5 - 18;20;-40 to 125;LIN/UART/PWM (OCD);AGC (512mT range);Yes;Yes;SOIC-8;2;Design dependent;Grade 1;B (D) ;https://melexis.com/MLX91230
 IVT - CONVENTIONAL HALL;Production;MLX91230KDC-BBC-000-RE;2000;4.5 - 18;20;-40 to 125;LIN/UART/PWM (OCD);AGC (512mT range);Yes;Yes;SOIC-8;2;Design dependent;Grade 1;C (D) ;https://melexis.com/MLX91230
 IVT - CONVENTIONAL HALL;Production;MLX91230KDC-BBC-100-RE;2000;4.5 - 18;20;-40 to 125;LIN/UART/PWM (OCD);AGC (512mT range);Yes;Yes;SOIC-8;2;Design dependent;Grade 1;C (D) ;https://melexis.com/MLX91230
-IVT - SHUNT;Production;MLX91231KDC-BBA-000-RE;2000;5;20;-40 to 125;LIN/UART/PWM (OCD);AGC (256mV range);Yes;Yes;SOIC-8;2;N/A;Grade 1;B (D) ;https://melexis.com/MLX91231
-IVT - SHUNT;Production;MLX91231KDC-BBC-000-RE;2000;5;20;-40 to 125;LIN/UART/PWM (OCD);AGC (256mV range);Yes;Yes;SOIC-8;2;N/A;Grade 1;C (D) ;https://melexis.com/MLX91231
+IVT - SHUNT;Production;MLX91231KDC-BBA-000-RE;2000;4.5 - 18;20;-40 to 125;LIN/UART/PWM (OCD);AGC (256mV range);Yes;Yes;SOIC-8;2;N/A;Grade 1;B (D) ;https://melexis.com/MLX91231
+IVT - SHUNT;Production;MLX91231KDC-BBC-000-RE;2000;4.5 - 18;20;-40 to 125;LIN/UART/PWM (OCD);AGC (256mV range);Yes;Yes;SOIC-8;2;N/A;Grade 1;C (D) ;https://melexis.com/MLX91231
 CORELESS EXTERNAL PRIMARY;Production;MLX91235HDC-BAA-500-RE;2000;5;20;-40 to 125;LIN/UART/PWM (OCD);AGC (512mT range);Yes;Yes;SOIC-8;2;Design dependent;Grade 0;B;https://melexis.com/MLX91235
