@@ -50,7 +50,7 @@ CONVENTIONAL HALL;Production;MLX91219LVA-ARA-501;2000;5;15.5;-40 to 150;Analog R
 CONVENTIONAL HALL;Production;MLX91219LVA-AAA-502;2000;5;15.5;-40 to 150;Analog Ratiometric;15;6.5 - 22.5;Yes;SIP4-VA;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91219;https://media.melexis.com/-/media/files/documents/datasheets/mlx91219-datasheet-melexis.pdf
 CONVENTIONAL HALL;Production;MLX91219LVA-AAA-503;2000;5;15.5;-40 to 150;Analog Ratiometric;25;16 - 55;Yes;SIP4-VA;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91219;https://media.melexis.com/-/media/files/documents/datasheets/mlx91219-datasheet-melexis.pdf
 CONVENTIONAL HALL;Production;MLX91219LVA-AAT-505;2000;5;15.5;-40 to 150;Analog Ratiometric;10;6.5 - 22.5;Yes;SIP4-VA - STD4;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91219;https://media.melexis.com/-/media/files/documents/datasheets/mlx91219-datasheet-melexis.pdf
-INTEGRATED;Production;MLX91220KDC-ABF-025 RE;25;5;20;-40 to 125;Analog Fixed;80;N/A;No;SOIC-8;300;3.55;Grade 0;QM;https://melexis.com/MLX91220;
+INTEGRATED;Production;MLX91220KDC-ABF-025 RE;25;5;20;-40 to 125;Analog Fixed;80;N/A;No;SOIC-8;300;3.55;Grade 0;QM;https://melexis.com/MLX91220;https://media.melexis.com/-/media/files/documents/datasheets/mlx91220-datasheet-melexis.pdf
 INTEGRATED;Production;MLX91220KDC-ABF-050 RE;50;5;20;-40 to 125;Analog Fixed;40;N/A;No;SOIC-8;300;3.55;Grade 0;QM;https://melexis.com/MLX91220;
 INTEGRATED;Production;MLX91220KDC-ABR-020 RE;20;5;20;-40 to 125;Analog Ratiometric;100;N/A;No;SOIC-8;300;3.55;Grade 0;QM;https://melexis.com/MLX91220;
 INTEGRATED;Production;MLX91220KDC-ABR-025 RE;25;5;20;-40 to 125;Analog Ratiometric;80;N/A;No;SOIC-8;300;3.55;Grade 0;QM;https://melexis.com/MLX91220;
